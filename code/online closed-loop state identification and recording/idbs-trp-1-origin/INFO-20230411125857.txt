@@ -1,8 +1,0 @@
-Item	Value
-node	4,3  
-basis	sym2
-step	8
-win	64
-pri	1152
-n1	1
-n2	3
