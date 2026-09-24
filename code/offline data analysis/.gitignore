@@ -1,0 +1,4 @@
+_example_outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.asv

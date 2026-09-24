@@ -1,0 +1,44 @@
+﻿Baseline group	Rats	Segments
+Control	8	107
+CCI_Day3	8	110
+CCI_Day7	8	109
+CCI_Day14	5	70
+
+Group	Rat	Segments
+Control	Rat01	14
+Control	Rat02	12
+Control	Rat03	14
+Control	Rat04	12
+Control	Rat05	14
+Control	Rat06	14
+CCI_Day14	Rat07	14
+CCI_Day3	Rat07	13
+CCI_Day7	Rat07	14
+Control	Rat07	14
+CCI_Day14	Rat08	14
+CCI_Day3	Rat08	14
+CCI_Day7	Rat08	14
+Control	Rat08	13
+CCI_Day3	Rat09	14
+CCI_Day7	Rat09	13
+CCI_Day14	Rat10	14
+CCI_Day3	Rat10	13
+CCI_Day7	Rat10	13
+CCI_Day3	Rat11	14
+CCI_Day7	Rat11	13
+CCI_Day3	Rat12	14
+CCI_Day7	Rat12	14
+CCI_Day14	Rat13	14
+CCI_Day3	Rat13	14
+CCI_Day7	Rat13	14
+CCI_Day14	Rat14	14
+CCI_Day3	Rat14	14
+CCI_Day7	Rat14	14
+
+Stimulation strategy	Pre	Stim	Post	Total
+40Hz_OL	107	104	101	312
+40Hz_gamma1_CL	110	102	107	319
+40Hz_gamma0_CL	110	104	107	321
+130Hz_OL	110	111	111	332
+130Hz_gamma1_CL	111	104	108	323
+130Hz_gamma0_CL	107	110	107	324

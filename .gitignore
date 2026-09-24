@@ -1,0 +1,10 @@
+# Operating-system and editor temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.asv
+__pycache__/
+.ipynb_checkpoints/
+
+# Existing per-directory .gitignore files also apply.

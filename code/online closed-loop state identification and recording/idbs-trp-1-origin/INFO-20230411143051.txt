@@ -1,0 +1,8 @@
+Item	Value
+node	2,1  
+basis	sym2
+step	8
+win	64
+pri	960
+n1	1
+n2	3
